@@ -1,2 +1,2 @@
-# weatherPriject
+# weatherProject
 پروژه هواشناسی بنده حقیر
